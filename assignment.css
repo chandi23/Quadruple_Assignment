@@ -1,0 +1,51 @@
+.navbar.navbar-inverse {
+ margin-bottom: 0;
+  }
+#up{
+	min-height: 45%;
+}
+
+#up > div { 
+    min-height: 45%; 
+    border-bottom: 1px solid black;
+}
+
+#upleft{
+	padding-top:70px;
+	font-size: 1.5em;
+	float:left;
+	width:20%;
+	border-right:1px solid black;
+}
+
+#upright{
+	float:right;
+	width:80%;
+	background-repeat: no-repeat;
+    background-size: contain;
+
+}
+#bottom{
+	min-height: 45%;
+
+}
+
+
+#bottom > div { 
+    min-height: 45%; 
+}
+#bottom-left{
+	width:50%;
+	border-right:1px solid black;
+	float:left;
+	background-image: url("https://cdn.rbth.com/980x-/all/2017/04/28/Cats/01-bajun-b.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+}
+
+#bottom-right{
+	width:50%;
+	float:right;
+
+}
